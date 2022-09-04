@@ -1,0 +1,485 @@
+1
+00:00:00,450 --> 00:00:07,980
+Hi there, friends in this session, we 
+will be introduced to A Whole New World,  
+
+2
+00:00:07,980 --> 00:00:16,710
+a world of physics in this beautiful planet that 
+we call Earth. There are a lot of interesting  
+
+3
+00:00:16,710 --> 00:00:24,780
+events that take place. These events are around 
+us, which we see, or do or experience almost  
+
+4
+00:00:24,780 --> 00:00:31,680
+regularly at some point in time. Your curiosity 
+would have definitely got the better of you,  
+
+5
+00:00:31,680 --> 00:00:36,810
+and would have pushed you to ask questions like 
+what's going on. How does that happen? Well,  
+
+6
+00:00:36,810 --> 00:00:44,040
+leaving Miracles apart. The answer to all these 
+questions is physics. You see, there is more to  
+
+7
+00:00:44,040 --> 00:00:50,970
+events in our everyday lives than what meets the 
+eye. So to appreciate the events that you see,  
+
+8
+00:00:50,970 --> 00:00:58,980
+you have to first understand events that you don't 
+see confused. Don't worry. Let's make it simple by  
+
+9
+00:00:58,980 --> 00:01:08,160
+looking into 10 of our everyday life examples 
+at random. We all know what that sound is,  
+
+10
+00:01:08,160 --> 00:01:15,210
+don't we? It is a very annoying, yet important 
+sound, which tells us that we have to be up and  
+
+11
+00:01:15,210 --> 00:01:22,260
+about. We wake up in the morning at the sound of 
+the alarm sound is something which we can't see,  
+
+12
+00:01:22,260 --> 00:01:28,740
+but can hear our experience. It is used in 
+important medical equipment like the ultrasound  
+
+13
+00:01:28,740 --> 00:01:37,980
+scanner, and buy ships to estimate the depth of 
+the ocean physics studies, the origin, propagation  
+
+14
+00:01:37,980 --> 00:01:45,600
+and properties of sound. Let's make a note of this 
+event of sound and other events yet to come in the  
+
+15
+00:01:45,600 --> 00:01:57,180
+session before we Define what physics has in the 
+end, to have a cup of coffee, we boil water. After  
+
+16
+00:01:57,180 --> 00:02:02,430
+turning on the stove, we noticed that the water is 
+hot enough when it starts boiling. And when we see  
+
+17
+00:02:02,430 --> 00:02:09,900
+Steam this gradual rise in temperature that causes 
+the water to bubble and later changed to steam is  
+
+18
+00:02:09,900 --> 00:02:18,200
+called heat. Thus, we get hot water by heating 
+that is, increasing. The temperature of water.  
+
+19
+00:02:18,200 --> 00:02:26,450
+Heat is used in the industry to melt metal and 
+make various types of heavy-duty Machinery like  
+
+20
+00:02:26,450 --> 00:02:33,200
+Automobiles and generators. It is also used in 
+household appliances, like the electric or steam  
+
+21
+00:02:33,200 --> 00:02:41,510
+iron heat. And its properties is an important 
+topic of physics as well. While we take a walk  
+
+22
+00:02:41,510 --> 00:02:49,280
+in the park on at our road, we have a good grip 
+without slipping because of a sort of roughness  
+
+23
+00:02:49,280 --> 00:02:55,550
+or resistance between the soles of our shoes 
+and the surface of the road. This resistance  
+
+24
+00:02:55,550 --> 00:03:03,770
+that's responsible for grip is called friction 
+or traction. But say, if we're busy on our cell  
+
+25
+00:03:03,770 --> 00:03:11,780
+phones or waving at our friends, and we do not 
+notice a banana peel in front of us, what makes  
+
+26
+00:03:11,780 --> 00:03:18,110
+us fall 12. Apart from our absent-mindedness, 
+it is due to the reduced friction between our  
+
+27
+00:03:18,110 --> 00:03:24,050
+shoes and the road because of the slippery 
+banana. Peel friction, which is an important  
+
+28
+00:03:24,050 --> 00:03:36,080
+factor in the making of tires, is also explained 
+by physics. We have all observed apples falling  
+
+29
+00:03:36,080 --> 00:03:44,630
+from a tree or balloons floating away in are how 
+is this possible? The apples fall down while the  
+
+30
+00:03:44,630 --> 00:03:52,430
+balloons float up. This is nothing to be puzzled 
+about. The answer is simple. Earth has a kind of a  
+
+31
+00:03:52,430 --> 00:03:59,510
+pull that draws every object to its surface. This 
+bull is called gravity or gravitational force,  
+
+32
+00:03:59,510 --> 00:04:05,690
+which keeps every object grounded to the surface 
+of the Earth and prevents them from floating away.  
+
+33
+00:04:05,690 --> 00:04:11,960
+This is why Apple's fall to the ground and why 
+people or objects on the underside of the earth  
+
+34
+00:04:11,960 --> 00:04:19,370
+do not fall into space. So why did the balloon 
+float away and not fall to the ground? Hmm again,  
+
+35
+00:04:19,370 --> 00:04:26,120
+it's no big deal. We know the air is light. So 
+imagine something which is lighter than air like,  
+
+36
+00:04:26,120 --> 00:04:33,570
+say, helium gas filled into the balloon because 
+it is light. It rises to a level higher than air,  
+
+37
+00:04:33,570 --> 00:04:41,730
+and thus Works Against Gravity, which now cannot 
+keep the balloon grounded. Gravity is study to a  
+
+38
+00:04:41,730 --> 00:04:49,410
+great extent by astronauts to mimic conditions in 
+outer space. In fact, gravity is the very event  
+
+39
+00:04:49,410 --> 00:04:59,520
+that was studied by Sir Isaac Newton, who is now 
+considered one of the fathers of physics. When  
+
+40
+00:04:59,520 --> 00:05:07,290
+we use a compass, we notice that the direction of 
+the needle is constant. That is the needle points  
+
+41
+00:05:07,290 --> 00:05:15,510
+in Only One Direction. Not this is because of a 
+force of attraction between two oppositely charged  
+
+42
+00:05:15,510 --> 00:05:23,220
+ends called magnetism. All materials that follow 
+magnetism can be termed as magnets. Did you know  
+
+43
+00:05:23,220 --> 00:05:30,000
+that apart from being just a planet, our Earth 
+is actually one big giant magnet. The geographic  
+
+44
+00:05:30,000 --> 00:05:35,880
+North Pole of the earth that is the Arctic 
+region is actually the magnetic South Pole,  
+
+45
+00:05:35,880 --> 00:05:43,140
+which attracts the Magnetic North Pole of the 
+compass is why the compass always points North,  
+
+46
+00:05:43,140 --> 00:05:51,600
+no matter where it is. We all know Opposites 
+Attract, don't we? Physics looks into the property  
+
+47
+00:05:51,600 --> 00:05:58,050
+of magnetism, which is used in modes of Transport, 
+like the Metro trains and in parts of electronic  
+
+48
+00:05:58,050 --> 00:06:12,930
+speakers.We would have all seen or done at least 
+a few of these tricks. So what makes objects  
+
+49
+00:06:12,930 --> 00:06:19,860
+remain still or maintain its position? Even if 
+there is a pull or tug on it, it is the inertia  
+
+50
+00:06:19,860 --> 00:06:28,350
+or unwillingness or laziness of a body to change 
+its state of rest or motion. This means if a body  
+
+51
+00:06:28,350 --> 00:06:34,590
+moves, it prefers to remain in motion and finds it 
+difficult to stop unless an outside force acts on  
+
+52
+00:06:34,590 --> 00:06:42,660
+it. Similarly, when a body is not moving or at 
+rest, it prefers to stay that way and finds it  
+
+53
+00:06:42,660 --> 00:06:51,330
+difficult to start moving unless an outside force 
+acts on it. This property of inertia is important  
+
+54
+00:06:51,330 --> 00:06:58,020
+for the automobile industry while mimicking 
+accidents for safer cars to be manufactured. Thus,  
+
+55
+00:06:58,020 --> 00:07:11,620
+physics also involves inertia. Speaking of Doug's 
+or pushes, what do we do when we open or close the  
+
+56
+00:07:11,620 --> 00:07:19,480
+door? We use Force when the door is heavy, we use 
+more strength to move it, which simply means that  
+
+57
+00:07:19,480 --> 00:07:26,620
+we use more force force is something that we 
+use on a daily basis. In almost all tasks, we  
+
+58
+00:07:26,620 --> 00:07:33,490
+undertake like brushing our teeth. Pushing buttons 
+on a keyboard or cell phone force is also involved  
+
+59
+00:07:33,490 --> 00:07:40,720
+in various processes like coughing, sneezing 
+and blood flow due to the contraction of certain  
+
+60
+00:07:40,720 --> 00:07:48,280
+muscles in our body. Simply put, force is nothing 
+but the pressure exerted by one body on another  
+
+61
+00:07:48,280 --> 00:07:56,470
+body sports like swimming or running also employ 
+Force for this reason, force is also dealt with by  
+
+62
+00:07:56,470 --> 00:08:06,370
+physics. Let's look into our daily gadgets like 
+the cell phone. What makes the cell phone work  
+
+63
+00:08:06,370 --> 00:08:12,580
+is the electricity that supplied by the battery. 
+What charges the battery is, the electricity that  
+
+64
+00:08:12,580 --> 00:08:18,430
+supplied by the power source, electricity, as 
+we all know, is an important part of our daily  
+
+65
+00:08:18,430 --> 00:08:25,900
+lives. Beat for transportation like buses, cars 
+or trains of a powering, a household appliances  
+
+66
+00:08:25,900 --> 00:08:32,980
+like the television, the fridge, the microwave, 
+or even to watch this video. Did you know that  
+
+67
+00:08:32,980 --> 00:08:38,860
+our body is also like an appliance and the part 
+of run it comes from certain cells which produce  
+
+68
+00:08:38,860 --> 00:08:46,480
+electricity. This type of electricity is called as 
+bioelectricity, which we will see in our biology  
+
+69
+00:08:46,480 --> 00:08:53,440
+videos, though we all are biological systems. The 
+mechanism of electricity production is explained  
+
+70
+00:08:53,440 --> 00:09:00,550
+by physics. Remember, if electricity can rock 
+your world, it can also shock Your World. The Many  
+
+71
+00:09:00,550 --> 00:09:11,640
+usages of electricity is enough proof to justify 
+why we include electricity in physics. After a  
+
+72
+00:09:11,640 --> 00:09:18,930
+while of rain, we see a rainbow in the sky. It is 
+beautiful and has seven different colors. This is  
+
+73
+00:09:18,930 --> 00:09:25,560
+a property of light, particularly white light. Do 
+we call it white light? It is actually a mixture  
+
+74
+00:09:25,560 --> 00:09:30,840
+of Lights of many different colors. Rainbows 
+are formed due to the splitting of sun rays,  
+
+75
+00:09:30,840 --> 00:09:37,440
+which is white light through raindrops. Study of 
+light is an important part of physics because of  
+
+76
+00:09:37,440 --> 00:09:48,630
+the various usages of light, like in decorations 
+and lasers. Did you know that we are all made  
+
+77
+00:09:48,630 --> 00:09:53,340
+up of many, many smaller particles which we 
+cannot see individually with our Naked Eyes,  
+
+78
+00:09:53,340 --> 00:09:59,040
+or even with a microscope. They are even smaller 
+than the smallest cell. And in fact, these are  
+
+79
+00:09:59,040 --> 00:10:04,320
+the very building blocks of cells and everything 
+in the universe. Do you know what these particles  
+
+80
+00:10:04,320 --> 00:10:11,400
+are? They called atoms. Two or more atoms come 
+together to form a molecule. And many molecules  
+
+81
+00:10:11,400 --> 00:10:18,780
+come together to form visible matter. Just imagine 
+how many molecules, and consequently, how many  
+
+82
+00:10:18,780 --> 00:10:26,130
+more atoms we are made up of billions, trillions, 
+zillions, even things that we can't see,  
+
+83
+00:10:26,130 --> 00:10:32,400
+like my new dust particles, are made up of atoms. 
+The theory of atoms and molecules is involved with  
+
+84
+00:10:32,400 --> 00:10:39,270
+the original of the universe, life on Earth and 
+everything around us. Hence, physics just cannot  
+
+85
+00:10:39,270 --> 00:10:46,560
+do without it from all of these events. Let us now 
+Define physics. The word physics comes from the  
+
+86
+00:10:46,560 --> 00:10:53,850
+Greek word fizzes, meaning nature and physique 
+meaning, knowledge of nature. Thus simply put,  
+
+87
+00:10:53,850 --> 00:11:00,480
+physics is nothing but the study of nature and the 
+Universe on the whole, and the various occurrences  
+
+88
+00:11:00,480 --> 00:11:06,720
+or events taking place in it. For each of the 
+previously mentioned examples. There are other  
+
+89
+00:11:06,720 --> 00:11:12,390
+events that are occurring at the same time, which 
+are invisible, or which we considered physics,  
+
+90
+00:11:12,390 --> 00:11:19,770
+explains all these unseen events to its goal is 
+to answer all questions, right from Elemental  
+
+91
+00:11:19,770 --> 00:11:26,480
+particles like atoms to gigantic structures like 
+planets. It gives us an understanding of how and  
+
+92
+00:11:26,480 --> 00:11:32,420
+why things are the way they are. The events 
+mentioned earlier were just minut examples of  
+
+93
+00:11:32,420 --> 00:11:37,850
+how physics is involved in our everyday lives. So 
+now, do you see how important studying physics is?  
+
+94
+00:11:37,850 --> 00:11:45,620
+Physics is a lot like a mountain, which is not 
+difficult to scale. And when you reach the top,  
+
+95
+00:11:45,620 --> 00:11:53,270
+the view is beautiful. Just don't accept things 
+the way they are. Follow your curiosity wide  
+
+96
+00:11:53,270 --> 00:11:59,240
+and far. Please give us your comments on the 
+session. If you like the session and uninterested  
+
+97
+00:11:59,240 --> 00:12:04,070
+to watch more of these sessions, click on 
+the like button and subscribe to let stood.
+

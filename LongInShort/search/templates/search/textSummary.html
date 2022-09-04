@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% load static %}
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LongInShort - Get optimised video summaries</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Kalam:wght@700&family=Sniglet&family=Montserrat:wght@600&display=swap"
+        rel="stylesheet">
+    <!-- Bootstrap stylesheet -->
+    <link rel="stylesheet" href="	https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css">
+
+    <!-- Text Summary stylesheet -->
+    <link rel="stylesheet" href="{% static 'search/css/textSummary.css' %}">
+    <!-- Custom Stylesheet -->
+    <link rel="stylesheet" href="{% static 'search/css/styles.css' %}"> <!-- Relative Link -->
+
+</head>
+
+<body>
+
+    <nav class="navbar custom-navbar">
+        <div class="container-fluid">
+            <span class="navbar-brand mb-0 custom-navbar-brand">
+                <img class="website-logo" src="{% static 'search/images/video.png' %}" alt="" width="30" height="24"
+                    class="d-inline-block align-text-top"> <!-- Relative Link -->
+                <span class="ml-3">LongInShort</span>
+            </span>
+        </div>
+    </nav>
+    <div class="text-summary-container">
+        <h2 class="text-summary-title">
+            {{ heading }} (Summarised Text)
+        </h2>
+        <br>
+        <p>
+                {{ text }}
+        </p>
+    </div>
+
+    <div class = "fter">
+        Made with love in <i>Tech-A-Thon</i> by <i>Outbox Learners</i> 2022
+    </div>
+
+    <!-- Custom js file -->
+    <script src="{% static 'search/js/index.js' %}"></script> <!-- Relative Link -->
+    <!-- Bootstrap JS file -->
+    <script src="	https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

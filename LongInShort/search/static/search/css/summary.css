@@ -1,0 +1,31 @@
+a{
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+    color: inherit;
+}
+.summarised-video-card{
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    color: #472D2D;
+}
+.summarised-video-card-caption p{
+    font-size: 2rem;
+}
+
+.summarised-video-card video{
+
+    width: 100%;
+}
+.summarised-video-card-caption{
+    background-color: bisque;
+}
+.summarised-video-card-caption button{
+    width: 100%;
+    padding: 1%;
+    border: none;
+    background-color:bisque;
+    text-decoration: underline;
+}

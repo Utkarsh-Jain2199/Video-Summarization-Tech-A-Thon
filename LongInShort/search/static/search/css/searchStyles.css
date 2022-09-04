@@ -1,0 +1,101 @@
+body{
+
+  background: #d1d5db;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+a:hover{
+  color: inherit;
+}
+
+
+.d-flex{
+  align-content: space-between;
+  margin-top: 3vh;
+}
+.form{
+
+  position: relative;
+}
+
+.form .fa-search{
+
+  position: absolute;
+  top:20px;
+  left: 20px;
+  color: #9ca3af;
+
+}
+
+.form span{
+
+      position: absolute;
+  right: 17px;
+  top: 13px;
+  padding: 2px;
+  border-left: 1px solid #d1d5db;
+
+}
+form-control{
+  padding: 0.7rem 0.75rem;
+}
+
+.left-pan{
+  padding-left: 7px;
+}
+
+.left-pan i{
+ 
+ padding-left: 10px;
+}
+
+.form-input{
+
+  height: 55px;
+  text-indent: 33px;
+  border-radius: 10px;
+}
+
+.form-input:focus{
+
+  box-shadow: none;
+  border:none;
+}
+
+.videos-container{
+  padding : 7% 3%;
+  justify-content: left;
+}
+
+.custom-card{
+  text-align: center;
+  width: 300px;
+  color: #472D2D;
+  margin: 10px;
+}
+.custom-card p{
+  height: 50px;
+}
+.video{
+  height: 150px;
+}
+.video video{
+  margin-bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+.caption{
+  margin-top: 0;
+  background-color: bisque;
+}
+
+.custom-btn-card{
+  background-color: #472D2D;
+  color: bisque;
+  padding: 2px 12px;
+  border-radius: 2px;
+  margin: 3% 4%;
+}
+

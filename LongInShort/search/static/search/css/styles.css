@@ -1,0 +1,75 @@
+body{
+    background-color: #472D2D;
+    color: bisque;
+}
+
+/* Navbar */
+.website-logo{
+    width: 45px;
+    height: 35px;
+}
+.custom-navbar-brand{
+    font-size: 2rem;
+    color: bisque;
+    font-family: 'Kalam', cursive;
+}
+
+.custom-navbar-brand:hover{
+    color: bisque;
+}
+
+/* Front-Text */
+
+.front-text{
+    text-align: center;
+    padding: 7% 14%;
+    font-family: 'Montserrat', sans-serif;
+}
+.front-text h1{
+    height: 30vh;
+}
+
+
+/* Front-page-buttons */
+.front-buttons{
+    text-align: center;
+}
+.custom-front-btn{
+    border-color: bisque;
+    color: bisque;
+    width: 300px;
+    margin: 2%;
+}
+.custom-front-btn:hover{
+    background-color:  bisque; 
+    color: #472D2D;
+}
+.custom-front-btn-anchor:hover{
+    background-color:  inherit; 
+    color: inherit;
+}
+.custom-front-btn-anchor{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.fter{
+    background-color: black;
+    color: #472D2D;
+    text-align: center;
+    padding: 3% 7%;
+    margin-top: 10vh;
+}
+.temp{
+    background-color: black;
+}
+@media (max-width: 768px){
+    .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl{
+        justify-content: center;
+    }
+
+    .front-text h1{
+        height: 40vh;
+    }
+
+}
