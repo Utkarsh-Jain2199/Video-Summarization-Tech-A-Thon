@@ -11,3 +11,6 @@ Video Link of Project - https://youtu.be/u5EoIVKd2_M
 <h1>Nitin Certificate</h1>
 
 ![Alt text](https://github.com/NitinSingh8/N-Programmer/blob/main/certificate/Certificate_tech-a-thon.jpeg "Some Error Occur")
+
+<h1>Utkarsh Certificate</h1>
+![Alt text](https://drive.google.com/file/d/1KWHhZMttBGp7VBqCTrPJfGokhTvX9QDR/view "Some Error Occur")
