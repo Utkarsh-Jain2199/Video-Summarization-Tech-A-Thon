@@ -13,4 +13,5 @@ Video Link of Project - https://youtu.be/u5EoIVKd2_M
 ![Alt text](https://github.com/NitinSingh8/N-Programmer/blob/main/certificate/Certificate_tech-a-thon.jpeg "Some Error Occur")
 
 <h1>Utkarsh Certificate</h1>
-![Alt text](https://github.com/Utkarsh-Jain2199/Documents/blob/main/TECH-A-THON.png Some Error Occur")
+![TECH-A-THON](https://user-images.githubusercontent.com/77992826/211374019-bd8644d7-f2c0-4d2c-8296-0f4bceeef0d6.png)
+
